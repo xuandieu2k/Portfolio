@@ -246,7 +246,7 @@ const Home = () => {
                 I'm always open to discussing new projects, creative ideas or opportunities to be part of your visions.
               </p>
               <div className="flex flex-wrap justify-center gap-6">
-                <a href="mailto:hello@example.com" className="btn-primary group text-lg px-12">
+                <a href="mailto:xuandieu12300@gmail.com" className="btn-primary group text-lg px-12">
                   Send Message
                   <Mail size={20} className="inline-block ml-3 group-hover:rotate-12 transition-transform" />
                 </a>
